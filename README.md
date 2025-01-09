@@ -6,6 +6,8 @@ Ranging from Data Pre-Processing to feature extraction
 As well as different models to be used frequently.
 
 
+# Incomplete repository. Don't use as reference
+
 ## Scipy
 
 ### Interpolation/Extrapolation
@@ -23,4 +25,3 @@ ynew = f(xnew)
 
 
 
-# Not Completed yet
